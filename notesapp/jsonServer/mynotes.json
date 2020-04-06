@@ -1,0 +1,20 @@
+{
+  "notes": [
+    {
+      "title": "Kanan Huseynli",
+      "text": "Hi)\nFirst of all, I want to say that I have worked alone on this Step Project.( I have inform you about that before. ) That's why there are some not working requirements in my project, cause of lack of time. Hope, you will take it into consideration)",
+      "color": "#008B8B",
+      "date": 1586027082995,
+      "status": true,
+      "id": 27
+    },
+    {
+      "title": "About Edit Button",
+      "text": "I just didn't have any time for beginning Edit section. In the Next Days I will tyr write it for myself, but ofcourse I can't load it to gutHub, because of load to gitHub after deadline is not allowed. That's why the message can't be updated. Sorry((",
+      "color": "#800000",
+      "date": 1586027967181,
+      "status": true,
+      "id": 31
+    }
+  ]
+}
